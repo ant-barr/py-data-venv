@@ -10,3 +10,5 @@ print(b)
 # %%
 print("hello interactive cells")
 # %%
+print("hello swagmaster2")
+# %%
